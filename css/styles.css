@@ -7070,7 +7070,7 @@ a:hover, a:focus, a:active,
 .tg-member-hover-icons a:hover i,
 .tg-metadata li + li:after,
 .social ul.tg-social-icon li a:hover i {
-  color: #1885B2;
+  color: #8DC54D;
 }
 
 /* =============================================
@@ -7116,11 +7116,11 @@ body.version-two #header .logo,
 .gn-menu-main li.gn-trigger a.gn-selected,
 body.version-two .current-menu-item a,
 .tg-pagination li.tg-prev:hover a, .tg-theme-heading::after {
-  background: #1885B2;
+  background: #8DC54D;
 }
 
 .tg-service:hover .tg-border-topleft {
-  background: rgba(255, 204, 51, 0.9);
+  background: rgba(141, 197, 77, 0.9);
 }
 
 /* =============================================
@@ -7147,11 +7147,11 @@ body.version-two .current-menu-item a,
 .home-slider .owl-controls .owl-pagination .owl-page:hover,
 .gn-menu-main li .gn-menu li a:hover,
 .tg-widget.widget-accordions ul li h4.actives:after {
-  border-color: #1885B2;
+  border-color: #8DC54D;
 }
 
 .home-slider .owl-controls .owl-pagination .owl-page {
-  border-top-color: #1885B2;
+  border-top-color: #8DC54D;
 }
 
 @font-face {
@@ -12076,7 +12076,7 @@ address {
   font-size: 14px;
   line-height: 50px;
   color: #fff;
-  background: #1885B6;
+  background: #8DC54D;
   text-transform: uppercase;
   padding: 0 50px;
 }
@@ -12961,7 +12961,7 @@ body.home #main {
   list-style: none;
   float: left;
   width: 100%;
-  background: #1885B2;
+  background: #8DC54D;
   margin: 0 0 40px;
 }
 
@@ -13352,19 +13352,19 @@ ul.gallery-cats {
                         Footer Style
 ============================================= */
 #footer {
-  background: #1885B2;
+  background: #8DC54D;
 }
 
 .tg-colfirst-bgcolor {
-  background: #1885B2;
+  background: #8DC54D;
 }
 
 .tg-collast-bgcolor {
-  background: #1885B2;
+  background: #8DC54D;
 }
 
 .tg-footerbar-color {
-  background: #136C91;
+  background: #8DC54D;
 }
 
 #footer .tg-main-section {
@@ -16925,7 +16925,7 @@ body.version-two .current-menu-item a i:before {
   font-size: 20px;
 }
 #header #nav ul li a.active {
-  border-bottom: 3px solid #1885b2;
+  border-bottom: 3px solid #8DC54D;
 }
 
 .owl-buttons i[class*="fa-angle"] {
@@ -16937,7 +16937,7 @@ body.version-two .current-menu-item a i:before {
 ************************/
 #top-content h1 {
   text-align: center;
-  color: #1885B2;
+  color: #8DC54D;
   font-weight: 700;
 }
 #top-content .col-lg-4 p {
@@ -16959,7 +16959,7 @@ body.version-two .current-menu-item a i:before {
   padding: 40px 0 80px;
 }
 #about h2 {
-  color: #1885B2;
+  color: #8DC54D;
 }
 
 /************************
