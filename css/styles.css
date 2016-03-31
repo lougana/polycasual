@@ -16941,6 +16941,7 @@ body.version-two .current-menu-item a i:before {
 }
 #top-content .col-lg-4 p {
   text-align: center;
+  margin-top: 20px;
 }
 #top-content .col-lg-4 img {
   display: block;
@@ -16949,6 +16950,10 @@ body.version-two .current-menu-item a i:before {
 #top-content .col-lg-4 span {
   display: block;
   text-align: center;
+}
+#top-content .col-lg-4 img {
+  border-radius: 50%;
+  box-shadow: 2px 2px 14px grey;
 }
 #top-content .tg-theme-heading {
   margin-bottom: 60px;
