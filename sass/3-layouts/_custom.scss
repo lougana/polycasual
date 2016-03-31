@@ -1,0 +1,200 @@
+/************************
+  Start Header
+************************/
+#header {
+  i[class*="fa-"] {
+    padding: 0px 10px;
+    font-size: 20px;
+  }
+  #nav {
+    ul {
+      li {
+        a.active {
+          border-bottom: 3px solid #1885b2;
+        }
+      }
+    }
+  }
+}
+.owl-buttons {
+  i[class*="fa-angle"] {
+    font-size: 50px;
+  }
+}
+/************************
+  About Brandster
+************************/
+#top-content {
+  h1 {
+    text-align: center;
+    color: #1885B2;
+    font-weight: 700;
+  }
+  .col-lg-4 {
+    p {
+      text-align: center;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+    span {
+      display: block;
+      text-align: center;
+    }
+  }
+  .tg-theme-heading {
+    margin-bottom: 60px;
+  }
+}
+#about {
+  .tg-main-section {
+    padding: 40px 0 80px;
+  }
+  h2 {
+    color: #1885B2;
+  }
+}
+/************************
+  Partnes Section Start
+************************/
+#partners {
+  .tg-main-section {
+    padding-to: 80x;
+  }
+  .tg-portfolio {
+    .tg-theme-heading {
+      margin-top: 60px;
+    }
+  }
+}
+#partners #gallery-cats {
+  li {
+    a {
+      &:after {
+        background: white;
+      }
+    }
+  }
+}
+
+/************************
+  Testimonials Start
+************************/
+.testimonials {
+  .flex-direction-nav {
+    .flex-nav-prev {
+      top: 0px;
+    }
+    .flex-nav-next {
+      top: 0px;
+    }
+  }
+}
+
+.testimonials .flex-direction-nav .flex-nav-prev,
+.testimonials .flex-direction-nav .flex-nav-next {
+  top: 0px;
+}
+
+.testimonials .flex-direction-nav .flex-nav-prev a,
+.testimonials .flex-direction-nav .flex-nav-next a {
+  background: none;
+}
+
+.testimonials .flex-direction-nav .flex-nav-prev a::after,
+.testimonials .flex-direction-nav .flex-nav-next a::after {
+  display: inherit;
+}
+
+.testimonials .flex-direction-nav li a {
+  display: block;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  -webkit-transition: background-color 0.2s;
+  -moz-transition: background-color 0.2s;
+  transition: background-color 0.2s;
+}
+
+.cd-author-info li {
+  list-style-type: none;
+  font-size: 1em;
+  line-height: 14px;
+}
+
+#main section:first-of-type {
+  background: #F5F5F5;
+}
+
+/************************
+  Contact Us Start
+************************/
+#contact {
+  padding: 50px 0;
+  ul {
+    li {
+      span {
+        &:nth-child(3) {
+          width: 30%;
+        }
+      }
+    }
+  }
+  .form-contactus {
+    fieldset {
+      padding-top: 30px;
+    }
+  }
+  .contact-info {
+    a{
+      color: black;
+    }
+  }
+  .tg-col {
+    .tg-theme-heading {
+      h3 {
+        color: black;
+      }
+    }
+  }
+  .tg-main-section {
+    padding-top: 44px;
+  }
+  .tg-theme-heading {
+    margin-top: 60px;
+  }
+}
+/************************
+  Footer Start
+************************/
+
+#footer {
+  .contact-info {
+    li {
+      a {
+        color: white;
+      }
+    }
+  }
+  .tg-post-contentbox {
+    a {
+      &:hover {
+        color: #136C91;
+      }
+    }
+  }
+  .tg-social-icon {
+    li {
+      a {
+        i {
+          &:hover {
+            color: white;
+          }
+        }
+      }
+    }
+  }
+}

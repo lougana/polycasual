@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-ruby-sass": "^2.0.5"
+  },
+  "name": "brandsterinc",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lougana/brandsterinc.git"
+  },
+  "author": "Luis Magana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lougana/brandsterinc/issues"
+  },
+  "homepage": "https://github.com/lougana/brandsterinc#readme",
+  "description": ""
+}
